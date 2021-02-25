@@ -1,0 +1,12 @@
+# python cache files
+__pycache__/
+*.pyc
+
+# build artifacts
+build/
+dist/
+lektor_twitter_embed.egg-info/
+
+# test coverage
+.coverage
+coverage.xml
