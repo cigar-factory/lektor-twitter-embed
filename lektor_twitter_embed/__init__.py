@@ -1,6 +1,6 @@
 import requests
-from jinja2 import Markup
 from lektor.pluginsystem import Plugin
+from markupsafe import Markup
 
 
 def _init_params(url, params):
