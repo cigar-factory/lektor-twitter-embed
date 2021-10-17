@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lektor-twitter-embed"
-version = "0.1.0"
+version = "0.2.0"
 description = "Lektor template filter to convert twitter links to embeds"
 authors = ["chris48s"]
 license = "MIT"
