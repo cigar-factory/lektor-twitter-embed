@@ -25,7 +25,7 @@ def test_init_params_none():
 
 
 def test_init_params_dict():
-    assert _init_params(_tweet_url, {"dnt": "false", "align": "center"},) == {
+    assert _init_params(_tweet_url, {"dnt": "false", "align": "center"}) == {
         "url": _tweet_url,
         "dnt": "false",
         "align": "center",
