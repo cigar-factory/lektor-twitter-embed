@@ -13,7 +13,7 @@ def _init_params(url, params):
 
 
 def _send_request(url, params):
-    r = requests.get("https://publish.twitter.com/oembed", params=params)
+    r = requests.get(url, params=params)
     r.raise_for_status()
     return r.json()
 
