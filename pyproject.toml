@@ -20,9 +20,9 @@ classifiers = [
 Source = "https://github.com/cigar-factory/lektor-twitter-embed"
 
 [tool.poetry.group.dev.dependencies]
-isort = "^5.11"
-flake8 = "^5.0.4"
-black = "==23.3.0"
+isort = "9.0.2"
+flake8 = "7.4.1"
+black = "26.10.0"
 pytest = "^7.4.4"
 pytest-cov = "^4.1.0"
 
