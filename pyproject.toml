@@ -1,6 +1,6 @@
 [project]
 name = "lektor-twitter-embed"
-version = "0.2.0"
+version = "0.3.0"
 description = "Lektor template filter to convert twitter links to embeds"
 authors = [{name = "chris48s"}]
 license = "MIT"
