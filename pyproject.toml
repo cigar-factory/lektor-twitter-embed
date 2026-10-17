@@ -24,7 +24,7 @@ isort = "9.0.2"
 flake8 = "7.4.1"
 black = "26.10.0"
 pytest = "^7.4.4"
-pytest-cov = "^4.1.0"
+pytest-cov = "^7.1.0"
 
 [tool.poetry]
 requires-poetry = ">=2.0"
